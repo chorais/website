@@ -1,0 +1,15 @@
+title: Chorais
+description: Documentation for Chorais
+theme: just-the-docs
+
+url: https://chorais.github.io/website
+
+aux_links:
+  "Chorais on GitHub":
+    - "https://github.com/chorais"
+
+search_enabled: true
+
+heading_anchors: true
+
+footer_content: "&copy; Chorais"
